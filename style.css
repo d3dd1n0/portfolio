@@ -214,7 +214,7 @@ section {
 }
 
 .image-wrapper {
-  width: 100%;
+  width: 75%;
   max-width: 100%;
   height: auto;
   padding: 0.5em;
@@ -392,6 +392,10 @@ footer p {
     img {
       max-width: 100%;
       height: auto;
+    }
+
+    .image-wrapper {
+      background-color: red;
     }
   }
   
