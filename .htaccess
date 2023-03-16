@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "admin"
+AuthUserFile C:\Users\dedoc\OneDrive\Desktop\Portfolio
+Require valid-user
