@@ -370,18 +370,8 @@ section {
 .form-baby {
   width: 48%;
   float: left;
-  height: 500px;
+  height:400px px;
   margin-right: 20px;
-  background-color: #102432;
-  border: 1px solid rgba(255, 255, 255, 0.5);
-  border-radius: 5px;
-}
-
-.form-babyjr {
-  width: 48%;
-  float: left;
-  height: 500px;
-  margin-left: 20px;
   background-color: #102432;
   border: 1px solid rgba(255, 255, 255, 0.5);
   border-radius: 5px;
